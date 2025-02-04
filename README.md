@@ -14,7 +14,7 @@ pip install streamlit langchain-core langchain-community langchain-openai
 ```
 
 ### 2. Add OPENAI_API_KEY
-Add your personal OpenAI API Key to [`./src/example.env`](.src/example.env) and rename the file to `.env`.
+Add your personal OpenAI API Key to `/src/example.env` and rename the file to `.env`.
 
 ## Run project
 Run the following command in your terminal.
